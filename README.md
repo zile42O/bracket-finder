@@ -4,10 +4,11 @@
  
 <div align="center">
     <h3>Example</h3>
-    <img src="/screen1.png" width="400px"</img> 
+    <img src="/screen1.png" width="600px"</img> 
 </div>
 
 ##  How to use?
+- Configure your config.json and path file, then run command:
 ```bash
 .\main.exe
 ```
